@@ -1,5 +1,3 @@
-# Drawer navigation example
-
 <p>
   <!-- iOS -->
   <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
@@ -16,5 +14,5 @@
 
 ## 📝 Notes
 
-- This is a very basic example from the [react navigation](https://reactnavigation.org/) docs.
-- [Drawer navigation documentation](https://reactnavigation.org/docs/drawer-based-navigation).
+- This is a very simple react-native app. 
+- Users enter a goal that they have and a reocurring frequency, then they're reminded of the goal at that frequency
